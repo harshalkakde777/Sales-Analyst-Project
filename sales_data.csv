@@ -1,0 +1,11 @@
+order_id,product,category,sales,city,month
+1,iPhone,Electronics,65000,Mumbai,January
+2,Laptop,Electronics,85000,Delhi,January
+3,Shirt,Clothing,1500,Pune,February
+4,iPhone,Electronics,65000,Nagpur,February
+5,Tablet,Electronics,35000,Mumbai,March
+6,Jeans,Clothing,2500,Delhi,March
+7,Laptop,Electronics,85000,Chennai,March
+8,Shirt,Clothing,1500,Mumbai,April
+9,iPhone,Electronics,65000,Delhi,April
+10,Tablet,Electronics,35000,Pune,April
